@@ -1,0 +1,13 @@
+Script started on 2021-05-17 00:58:53-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+junghyun@grothendieck:Exercise-12$ ./Exercise12
+The greatest common divisor of 237860119462919774697968259 and 272314462066588884618061856 is 319011733
+
+140730556187488 can be expressed as a linear combination of 140730556187520 and 140730556187504
+
+164705119724434 = -11646636307708009852346 * 237860119462919774697968259 + 10173056114864709742958 * 272314462066588884618061856
+
+The linear combination is correct.
+junghyun@grothendieck:Exercise-12$ exit
+exit
+
+Script done on 2021-05-17 00:59:39-05:00 [COMMAND_EXIT_CODE="0"]
